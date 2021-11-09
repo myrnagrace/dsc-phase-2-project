@@ -37,7 +37,7 @@ Our data is narrowed down to these constraints:
 - Floors (1-3)
 - Grade (1-11)
 
-<img src='images/grade_condition_info.PNG'>
+<img src='images/grade_condition_info.png'>
 
 ### Final Model
 
